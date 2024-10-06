@@ -12,6 +12,7 @@
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
     # pkgs.poetry
+    # pkgs.python310Packages.uvicorn
   ];
 
   # Sets environment variables in the workspace
