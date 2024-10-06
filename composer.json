@@ -1,0 +1,15 @@
+{
+    "name": "user/sync",
+    "autoload": {
+        "psr-4": {
+            "User\\Sync\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ajakester1",
+            "email": "ajakester1@gmail.com"
+        }
+    ],
+    "require": {}
+}

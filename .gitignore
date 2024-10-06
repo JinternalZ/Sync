@@ -5,3 +5,4 @@
 app.log
 .env
 logs.txt
+/vendor/
